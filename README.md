@@ -42,7 +42,7 @@ Developed clear data-driven insights for decision-making.
 
 Languages: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
 
 Environment: Jupyter Notebook / Google Colab
 
