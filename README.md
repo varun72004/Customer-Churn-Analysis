@@ -1,4 +1,4 @@
-📊 Customer Churn Analysis and Prediction
+# 📊 Customer Churn Analysis and Prediction
 🔎 Project Overview
 
 This project focuses on analyzing customer churn in a telecommunications company and building predictive models to identify at-risk customers. By understanding customer behavior and churn patterns, the project aims to deliver actionable insights and recommendations that help reduce churn and improve customer retention strategies.
